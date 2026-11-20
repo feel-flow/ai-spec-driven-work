@@ -44,6 +44,6 @@ COWORK.md に従い、tasks/T001 の続きを進めてください。前回の�
 
 ## 配布元とライセンス
 
-- 配布元：https://github.com/feel-flow/ai-spec-driven-work
-- 書籍：『AI仕様駆動ワーク — Coworkに仕事を任せるためのハーネス入門』（Futoshi Okazaki）
-- ライセンス：Apache License 2.0（`LICENSE` を参照）。仕事に合わせて自由に書き換えて使えます
+- 配布元: https://github.com/feel-flow/ai-spec-driven-work
+- 書籍: 『AI仕様駆動ワーク — Coworkに仕事を任せるためのハーネス入門』（Futoshi Okazaki）
+- ライセンス: Apache License 2.0（`LICENSE` を参照）。仕事に合わせて自由に書き換えて使えます。キットそのものを再配布するときは、`LICENSE` の条件に従ってください
